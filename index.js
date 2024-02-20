@@ -49,7 +49,7 @@ function calculateTriangleArea (base, height, side) {
     alert(area);
     
 }
-calculateTriangleArea(5,7);
-calculateTriangleArea(8,12);
-calculateTriangleArea(3,5);
-calculateTriangleArea(10,12);
+calculateTriangleArea(5,7,3);
+calculateTriangleArea(8,12,6);
+calculateTriangleArea(3,5,2);
+calculateTriangleArea(10,12,8);
